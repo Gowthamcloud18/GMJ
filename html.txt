@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KTM Duke 250</title>
+    <title>KTM Duke 390</title>
 
     <style>
         body{
@@ -64,14 +64,14 @@
 <body>
 
 <header>
-    <h1>KTM Duke 250</h1>
+    <h1>KTM Duke 390</h1>
     <p>Street Fighter Performance Motorcycle</p>
 </header>
 
 <div class="container">
 
     <h2>Bike Image</h2>
-    <img src="ktm-duke-250.jpg" alt="KTM Duke 250">
+    <img src="ktm-duke-360.jpg" alt="KTM Duke 250">
 
     <h2>Description</h2>
     <p>
